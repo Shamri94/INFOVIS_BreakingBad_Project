@@ -106,7 +106,7 @@ app1.controller('validationCtrl', function($scope) {
       "Spooge",
       "Spooge's Lady",
       "-",
-      "Crushed with an ATM"
+      "Head crushed with an ATM"
     ],
     [
       "Season 2, Episode 07",
@@ -171,221 +171,221 @@ app1.controller('validationCtrl', function($scope) {
       "-",
       "Struck in the back with an axe"
     ],
+    [
+      "Season 3, Episode 07",
+      "Unnamed Man",
+      "The Cousins",
+      "-",
+      "Shot"
+    ],
+    [
+      "Season 3, Episode 07",
+      "Marco Salamanca",
+      "Hank Schrader",
+      "Gustavo Fring",
+      "Shot"
+    ],
+    [
+      "Season 3, Episode 08",
+      "Leonel Salamanca",
+      "Mike Ehrmantraut",
+      "Gustavo Fring",
+      "Poisoned with a fatal injection"
+    ],
+    [
+      "Season 3, Episode 08",
+      "Juan Bolsa's 2 Bodyguards",
+      "Mexican federales",
+      "Gustavo Fring",
+      "Shot"
+    ],
+    [
+      "Season 3, Episode 08",
+      "Juan Bolsa",
+      "Mexican federales",
+      "Gustavo Fring",
+      "Shot"
+    ],
+    [
+      "Season 3, Episode 12",
+      "Tomàs Cantillo",
+      "Rival Dealers",
+      "-",
+      "Shot"
+    ],
+    [
+      "Season 3, Episode 12",
+      "Rival Dealer #1",
+      "Walter White",
+      "-",
+      "Run over with a van"
+    ],
+    [
+      "Season 3, Episode 12",
+      "Rival Dealer #2",
+      "Walter White",
+      "-",
+      "Shot"
+    ],
+    [
+      "Season 3, Episode 13",
+      "4 Cartel Assassins",
+      "Mike Ehrmantraut",
+      "Gustavo Fring",
+      "Shot"
+    ],
+    [
+      "Season 3, Episode 13",
+      "Gale Boetticher",
+      "Jesse Pinkman",
+      "Walter White",
+      "Shot"
+    ],
+    [
+      "Season 4, Episode 01",
+      "Victor",
+      "Gustavo Fring",
+      "-",
+      "Throat slit with a boxcutter"
+    ],
+    [
+      "Season 4, Episode 04",
+      "Los Pollos Driver #1",
+      "Juárez Cartel assassins",
+      "-",
+      "Shot"
+    ],
+    [
+      "Season 4, Episode 04",
+      "2 Cartel Assassins",
+      "Mike Ehrmantraut",
+      "-",
+      "Shot"
+    ],
+    [
+      "Season 4, Episode 06",
+      "Los Pollos Driver #2",
+      "Juárez Cartel assassins",
+      "-",
+      "Shot"
+    ],
+    [
+      "Season 4, Episode 06",
+      "2 Los Pollos Guards",
+      "Juárez Cartel assassins",
+      "-",
+      "Suffocated by exhaust fumes"
+    ],
+    [
+      "Season 4, Episode 08",
+      "Maximino Arciniega",
+      "Hector Salamanca",
+      "Don Eladio Vuente",
+      "Shot"
+    ],
+    [
+      "Season 4, Episode 09",
+      "Nick",
+      "Gaff",
+      "-",
+      "Shot"
+    ],
+    [
+      "Season 4, Episode 10",
+      "Benicio Fuentes",
+      "Gustavo Fring",
+      "-",
+      "Poisoned tequila"
+    ],
+    [
+      "Season 4, Episode 10",
+      "Miguel",
+      "Gustavo Fring",
+      "-",
+      "Poisoned tequila"
+    ],
+    [
+      "Season 4, Episode 10",
+      "9 Juárez Cartel Dons",
+      "Gustavo Fring",
+      "-",
+      "Poisoned tequila"
+    ],
+    [
+      "Season 4, Episode 10",
+      "Gaff",
+      "Mike Ehrmantraut",
+      "Gustavo Fring",
+      "Strangled with a fiberwire"
+    ],
+    [
+      "Season 4, Episode 10",
+      "Don Eladio Vuente",
+      "Gustavo Fring",
+      "-",
+      "Poisoned tequila"
+    ],
+    [
+      "Season 4, Episode 10",
+      "Joaquin Salamanca",
+      "Jesse Pinkman",
+      "-",
+      "Shot"
+    ],
+    [
+      "Season 4, Episode 13",
+      "Hector Salamanca",
+      "Hector Salamanca and Walter White",
+      "-",
+      "Suicide bombed by a bomb detonated by a wheel-chair"
+    ],
+    [
+      "Season 4, Episode 13",
+      "Tyrus Kitt",
+      "Hector Salamanca and Walter White",
+      "-",
+      "Blown up by a bomb detonated by a wheel-chair"
+    ],
+    [
+      "Season 4, Episode 13",
+      "Gustavo Fring",
+      "Hector Salamanca and Walter White",
+      "-",
+      "Blown up by a bomb detonated by a wheel-chair"
+    ],
+    [
+      "Season 4, Episode 13",
+      "2 Albuquerue Mafia guards",
+      "Walter White",
+      "-",
+      "Shot"
+    ],
     // [
-    //   "Season 3, Episode 07",
-    //   "Chief Financial Officer (CFO)",
-    //   "New York",
-    //   "3059",
-    //   "2010\/06\/09"
-    // ],
-    // [
-    //   "Season 3, Episode 07",
-    //   "Systems Administrator",
-    //   "New York",
-    //   "1721",
-    //   "2009\/04\/10"
-    // ],
-    // [
-    //   "Season 3, Episode 08",
-    //   "Software Engineer",
-    //   "London",
-    //   "2558",
-    //   "2012\/10\/13"
-    // ],
-    // [
-    //   "Season 3, Episode 08",
-    //   "Personnel Lead",
-    //   "Edinburgh",
-    //   "2290",
-    //   "2012\/09\/26"
-    // ],
-    // [
-    //   "Season 3, Episode 08",
-    //   "Development Lead",
-    //   "New York",
-    //   "1937",
-    //   "2011\/09\/03"
-    // ],
-    // [
-    //   "Season 3, Episode 12",
-    //   "Chief Marketing Officer (CMO)",
-    //   "New York",
-    //   "6154",
-    //   "2009\/06\/25"
-    // ],
-    // [
-    //   "Season 3, Episode 12",
-    //   "Pre-Sales Support",
-    //   "New York",
-    //   "8330",
-    //   "2011\/12\/12"
-    // ],
-    // [
-    //   "Season 3, Episode 12",
-    //   "Sales Assistant",
-    //   "Sidney",
-    //   "3023",
-    //   "2010\/09\/20"
-    // ],
-    // [
-    //   "Season 3, Episode 13",
-    //   "Chief Executive Officer (CEO)",
-    //   "London",
-    //   "5797",
-    //   "2009\/10\/09"
-    // ],
-    // [
-    //   "Season 3, Episode 13",
-    //   "Developer",
-    //   "Edinburgh",
-    //   "8822",
-    //   "2010\/12\/22"
-    // ],
-    // [
-    //   "Season 4, Episode 01",
-    //   "Regional Director",
-    //   "Singapore",
-    //   "9239",
-    //   "2010\/11\/14"
-    // ],
-    // [
-    //   "Season 4, Episode 04",
-    //   "Software Engineer",
-    //   "San Francisco",
-    //   "1314",
-    //   "2011\/06\/07"
-    // ],
-    // [
-    //   "Season 4, Episode 04",
-    //   "Chief Operating Officer (COO)",
-    //   "San Francisco",
-    //   "2947",
-    //   "2010\/03\/11"
-    // ],
-    // [
-    //   "Season 4, Episode 06",
-    //   "Regional Marketing",
-    //   "Tokyo",
-    //   "8899",
-    //   "2011\/08\/14"
-    // ],
-    // [
-    //   "Season 4, Episode 06",
-    //   "Integration Specialist",
-    //   "Sidney",
-    //   "2769",
-    //   "2011\/06\/02"
-    // ],
-    // [
-    //   "Season 4, Episode 08",
-    //   "Developer",
-    //   "London",
-    //   "6832",
-    //   "2009\/10\/22"
-    // ],
-    // [
-    //   "Season 4, Episode 09",
-    //   "Technical Author",
-    //   "London",
-    //   "3606",
-    //   "2011\/05\/07"
-    // ],
-    // [
-    //   "Season 4, Episode 10",
-    //   "Team Leader",
-    //   "San Francisco",
-    //   "2860",
-    //   "2008\/10\/26"
-    // ],
-    // [
-    //   "Season 4, Episode 10",
-    //   "Post-Sales support",
-    //   "Edinburgh",
-    //   "8240",
-    //   "2011\/03\/09"
-    // ],
-    // [
-    //   "Season 4, Episode 10",
-    //   "Marketing Designer",
-    //   "San Francisco",
-    //   "5384",
-    //   "2009\/12\/09"
-    // ],
-    // [
-    //   "Season 4, Episode 10",
-    //   "Office Manager",
-    //   "San Francisco",
-    //   "7031",
-    //   "2008\/12\/16"
-    // ],
-    // [
-    //   "Season 4, Episode 10",
-    //   "Secretary",
-    //   "San Francisco",
-    //   "6318",
-    //   "2010\/02\/12"
-    // ],
-    // [
-    //   "Season 4, Episode 10",
-    //   "Financial Controller",
-    //   "San Francisco",
-    //   "9422",
-    //   "2009\/02\/14"
-    // ],
-    // [
-    //   "Season 4, Episode 13",
-    //   "Office Manager",
-    //   "London",
-    //   "7580",
-    //   "2008\/12\/11"
-    // ],
-    // [
-    //   "Season 4, Episode 13",
-    //   "Director",
-    //   "New York",
-    //   "1042",
-    //   "2008\/09\/26"
-    // ],
-    // [
-    //   "Season 4, Episode 13",
-    //   "Support Engineer",
-    //   "Singapore",
-    //   "2120",
-    //   "2011\/02\/03"
-    // ],
-    // [
-    //   "Season 4, Episode 13",
-    //   "Software Engineer",
-    //   "London",
-    //   "6222",
-    //   "2011\/05\/03"
+    //   "Season 5, Episode 02",
+    //   "",
+    //   "",
+    //   "-",
+    //   ""
     // ],
     // [
     //   "Season 5, Episode 02",
-    //   "Support Engineer",
-    //   "Tokyo",
-    //   "9383",
-    //   "2009\/08\/19"
+    //   "",
+    //   "",
+    //   "-",
+    //   ""
     // ],
     // [
     //   "Season 5, Episode 02",
-    //   "Developer",
-    //   "New York",
-    //   "8327",
-    //   "2013\/08\/11"
-    // ],
-    // [
-    //   "Season 5, Episode 02",
-    //   "Support Engineer",
-    //   "San Francisco",
-    //   "2927",
-    //   "2009\/07\/07"
+    //   "",
+    //   "",
+    //   "-",
+    //   ""
     // ],
     // [
     //   "Serge Baldwin",
     //   "Data Coordinator",
     //   "Singapore",
-    //   "8352",
+    //   "-",
     //   "2012\/04\/09"
     // ],
     // [
