@@ -6,7 +6,7 @@ This is the final project for the course of **Information Visualization** at *Un
 
 We have two data structures:
   - an interactive bar chart;
-  - a filterable and sortable table.
+  - a table that is filterable and sortable.
   
 The bar chart shows the number of deaths in each season. By clicking on a bar, you can see the number of deaths in each episode. The purpose of this chart is giving a quantitative view on the deaths in *Breaking Bad*.
 
