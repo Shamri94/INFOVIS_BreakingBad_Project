@@ -44,7 +44,7 @@
     <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.12/css/dataTables.bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="css/table_style.css">
-		<!-- PIE CHART  -->
+	<!-- PIE CHART  -->
 	
 		   
 	</head>
@@ -66,18 +66,25 @@
 						<div class="item">
 							<div class="col-md-8 col-md-offset-2">
 								<div class="featured-entry">
-									<img class="img-responsive" src="images/dashboard_full_1.jpg" alt="">
+									<!-- inizia grafico -->
+
+									<script src="http://code.highcharts.com/highcharts.js"></script>
+									<script src="http://code.highcharts.com/modules/drilldown.js"></script>
+
+									<div id="container" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
+									<script src="js/bar_chart.js"></script>
+
+
+    					
+
+									<!-- finisce grafico-->
 								</div>
 							</div>
 						</div>
 						<div class="item">
 							<div class="col-md-8 col-md-offset-2">
 								<div class="featured-entry">
-									<script src="https://code.highcharts.com/highcharts.js"></script>
-									<script src="https://code.highcharts.com/modules/export-data.js"></script>
-									<div id="bella" style="min-width: 600px; height: 400px; max-width: 600px; margin: 0 auto"></div>
-									<script src="js/pie_chart.js"></script>
-									
+								<!--<img src="/images/158846.jpg">-->	
  
 											
 								</div>
@@ -148,8 +155,10 @@
 		
 
 	<div class="gototop js-top">
-		
-		<a href="#" class="js-gotop"><i class="icon-arrow-up2"></i></a>
+		<!--icon-move-up-->
+		<!--icon-arrow-up2-->
+		<a href="#" class="js-gotop"><i class="icon-move-up"></i></a>
+
 	</div>
 
 	
