@@ -14,4 +14,5 @@ The table shows a more detailed view in the deaths. We have columns for various 
 
 We used : *AngularJS*, *jQuery* and *Highcharts*
 
-In order to launch this application, open the console, go to the directory where the files are located and use the command python -m http.server (or python -m SimpleHTTPServer), then open the browser and go to localhost:8000 (or :3000 or whatever is shown on the commandline).
+In order to launch this application, open the console, go to the directory where the files are located and use the 
+command `python -m http.server` (or `python -m SimpleHTTPServer`), then open the browser and go to `localhost:8000` (or `:3000` or whatever is shown on the commandline).
