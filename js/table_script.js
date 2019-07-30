@@ -194,7 +194,7 @@ app1.controller('validationCtrl', function($scope) {
     ],
     [
       "Season 3, Episode 08",
-      "Juan Bolsa's 2 Bodyguards",
+      "Juan Bolsa's 2 bodyguards",
       "Mexican federales",
       "Gustavo Fring",
       "Shot"
@@ -229,7 +229,7 @@ app1.controller('validationCtrl', function($scope) {
     ],
     [
       "Season 3, Episode 13",
-      "4 Cartel Assassins",
+      "4 Cartel assassins",
       "Mike Ehrmantraut",
       "Gustavo Fring",
       "Shot"
@@ -360,106 +360,209 @@ app1.controller('validationCtrl', function($scope) {
       "-",
       "Shot"
     ],
-    // [
-    //   "Season 5, Episode 02",
-    //   "",
-    //   "",
-    //   "-",
-    //   ""
-    // ],
-    // [
-    //   "Season 5, Episode 02",
-    //   "",
-    //   "",
-    //   "-",
-    //   ""
-    // ],
-    // [
-    //   "Season 5, Episode 02",
-    //   "",
-    //   "",
-    //   "-",
-    //   ""
-    // ],
-    // [
-    //   "Serge Baldwin",
-    //   "Data Coordinator",
-    //   "Singapore",
-    //   "-",
-    //   "2012\/04\/09"
-    // ],
-    // [
-    //   "Zenaida Frank",
-    //   "Software Engineer",
-    //   "New York",
-    //   "7439",
-    //   "2010\/01\/04"
-    // ],
-    // [
-    //   "Zorita Serrano",
-    //   "Software Engineer",
-    //   "San Francisco",
-    //   "4389",
-    //   "2012\/06\/01"
-    // ],
-    // [
-    //   "Jennifer Acosta",
-    //   "Junior Javascript Developer",
-    //   "Edinburgh",
-    //   "3431",
-    //   "2013\/02\/01"
-    // ],
-    // [
-    //   "Cara Stevens",
-    //   "Sales Assistant",
-    //   "New York",
-    //   "3990",
-    //   "2011\/12\/06"
-    // ],
-    // [
-    //   "Hermione Butler",
-    //   "Regional Director",
-    //   "London",
-    //   "1016",
-    //   "2011\/03\/21"
-    // ],
-    // [
-    //   "Lael Greer",
-    //   "Systems Administrator",
-    //   "London",
-    //   "6733",
-    //   "2009\/02\/27"
-    // ],
-    // [
-    //   "Jonas Alexander",
-    //   "Developer",
-    //   "San Francisco",
-    //   "8196",
-    //   "2010\/07\/14"
-    // ],
-    // [
-    //   "Shad Decker",
-    //   "Regional Director",
-    //   "Edinburgh",
-    //   "6373",
-    //   "2008\/11\/13"
-    // ],
-    // [
-    //   "Michael Bruce",
-    //   "Javascript Developer",
-    //   "Singapore",
-    //   "5384",
-    //   "2011\/06\/27",
-    //   "$183,000"
-    // ],
-    // [
-    //   "Donna Snider",
-    //   "Customer Support",
-    //   "New York",
-    //   "4226",
-    //   "2011\/01\/25",
-    //   "$112,000"
-    // ]
+    [
+      "Season 5, Episode 02",
+      "Peter Schuler",
+      "Peter Schuler",
+      "-",
+      "Suicide by placing one end of a defibrillator in his mouth and the other over his heart"
+    ],
+    [
+      "Season 5, Episode 02",
+      "Duane Chow",
+      "Chris Mara",
+      "Lydia Rodarte-Quayle",
+      "Shot"
+    ],
+    [
+      "Season 5, Episode 02",
+      "Chris Mara",
+      "Mike Ehrmantraut",
+      "-",
+      "Shot"
+    ],
+    [
+      "Season 5, Episode 05",
+      "Drew Sharp",
+      "Todd Alquist",
+      "-",
+      "Shot"
+    ],
+    [
+      "Season 5, Episode 07",
+      "Mike Ehrmantraut",
+      "Walter White",
+      "-",
+      "Shot"
+    ],
+    [
+      "Season 5, Episode 08",
+      "Dan Wachsberger",
+      "Prison inmates",
+      "Ordered by Jack Welker, contracted by Walter White",
+      "Stabbed to death"
+    ],
+    [
+      "Season 5, Episode 08",
+      "Ron Forenall",
+      "Prison inmates",
+      "Ordered by Jack Welker, contracted by Walter White",
+      "Stabbed to death"
+    ],
+    [
+      "Season 5, Episode 08",
+      "Jack McGann",
+      "Prison inmates",
+      "Ordered by Jack Welker, contracted by Walter White",
+      "Stabbed to death"
+    ],
+    [
+      "Season 5, Episode 08",
+      "Andrew Holt",
+      "Prison inmates",
+      "Ordered by Jack Welker, contracted by Walter White",
+      "Stabbed to death"
+    ],
+    [
+      "Season 5, Episode 08",
+      "Anthony Perez",
+      "Prison inmates",
+      "Ordered by Jack Welker, contracted by Walter White",
+      "Stabbed to death"
+    ],
+    [
+      "Season 5, Episode 08",
+      "Isaac Conley",
+      "Prison inmates",
+      "Ordered by Jack Welker, contracted by Walter White",
+      "Stabbed to death"
+    ],
+    [
+      "Season 5, Episode 08",
+      "William Moniz",
+      "Prison inmates",
+      "Ordered by Jack Welker, contracted by Walter White",
+      "Stabbed to death"
+    ],
+    [
+      "Season 5, Episode 08",
+      "Harris Boivin",
+      "Prison inmates",
+      "Ordered by Jack Welker, contracted by Walter White",
+      "Stabbed to death"
+    ],
+    [
+      "Season 5, Episode 08",
+      "Raymond Martinez",
+      "Prison inmates",
+      "Ordered by Jack Welker, contracted by Walter White",
+      "Stabbed to death"
+    ],
+    [
+      "Season 5, Episode 08",
+      "Dennis Markowski",
+      "Prison inmates",
+      "Ordered by Jack Welker, contracted by Walter White",
+      "Doused in rubbing alcohol, set on fire and burned alive"
+    ],
+    [
+      "Season 5, Episode 10",
+      "8 of Declan's men and his cook",
+      "White supremacist gang",
+      "Lydia Rodarte-Quayle and Jack Welker",
+      "Shot"
+    ],
+    [
+      "Season 5, Episode 10",
+      "Declan",
+      "Jack Welker",
+      "Lydia Rodarte-Quayle",
+      "Shot"
+    ],
+    [
+      "Season 5, Episode 14",
+      "Steven Gomez",
+      "White supremacist gang",
+      "-",
+      "Shot"
+    ],
+    [
+      "Season 5, Episode 14",
+      "Hank Schrader",
+      "Jack Welker",
+      "-",
+      "Shot"
+    ],
+    [
+      "Season 5, Episode 15",
+      "Andrea Cantillo",
+      "Todd Alquist",
+      "-",
+      "Shot"
+    ],
+    [
+      "Season 5, Episode 16",
+      "Kenny",
+      "Walter White",
+      "-",
+      "Shot repeatedly by remote-activated M60 machine gun"
+    ],
+    [
+      "Season 5, Episode 16",
+      "Matt",
+      "Walter White",
+      "-",
+      "Shot repeatedly by remote-activated M60 machine gun"
+    ],
+    [
+      "Season 5, Episode 16",
+      "Frankie",
+      "Walter White",
+      "-",
+      "Shot repeatedly by remote-activated M60 machine gun"
+    ],
+    [
+      "Season 5, Episode 16",
+      "Lester",
+      "Walter White",
+      "-",
+      "Shot repeatedly by remote-activated M60 machine gun"
+    ],
+    [
+      "Season 5, Episode 16",
+      "2 unnamed white supremacist gang members",
+      "Walter White",
+      "-",
+      "Shot repeatedly by remote-activated M60 machine gun"
+    ],
+    [
+      "Season 5, Episode 16",
+      "Todd Alquist",
+      "Jesse Pinkman",
+      "-",
+      "Strangled to death with chain"
+    ],
+    [
+      "Season 5, Episode 16",
+      "Jack Welker",
+      "Walter White",
+      "-",
+      "Shot"
+    ],
+    [
+      "Season 5, Episode 16",
+      "Lydia Rodarte-Quayle",
+      "Walter White",
+      "-",
+      "Poisoned with ricin"
+    ],
+    [
+      "Season 5, Episode 16",
+      "Walter White",
+      "-",
+      "-",
+      "Accidentally shot himself with remote-activated M60 machine gun, bled out"
+    ]
   ];
 
 
