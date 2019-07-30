@@ -344,7 +344,7 @@ app1.controller('validationCtrl', function($scope) {
     ],
     [
       "Season 4, Episode 13",
-      "2 Albuquerue Mafia guards",
+      "2 Albuquerque Mafia guards",
       "Walter White",
       "-",
       "Shot"
