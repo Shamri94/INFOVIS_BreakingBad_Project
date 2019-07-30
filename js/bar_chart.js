@@ -2,8 +2,8 @@
 
     
     $(function() {
-      var defaultTitle = "Breaking bad";
-      var drilldownTitle = "More about ";
+      var defaultTitle = "Deaths in each season";
+      var drilldownTitle = "Deaths in each episode";
     
       // Create the chart
       var chart = new Highcharts.Chart({
@@ -13,7 +13,7 @@
           events: {
             drilldown: function(e) {
               chart.setTitle({
-                text: drilldownTitle + e.point.name
+                text: drilldownTitle
               });
             },
             drillup: function(e) {
@@ -49,7 +49,7 @@
         },
     
         series: [{
-          name: 'season view',
+          name: 'season deaths',
           colorByPoint: true,
           data: [{
             name: 'Season 1',
@@ -80,6 +80,7 @@
         }],
         drilldown: {
           series: [{
+            name: 'episode deaths',
             id: 'Season 1',
             data: [
               ['Episode 1', 1],
@@ -92,6 +93,7 @@
             ]
           }, {
             id: 'Season 2',
+            name: 'episode deaths',
             data: [
               ['Episode 1', 2],
               ['Episode 2', 1],
@@ -109,6 +111,7 @@
             ]
           }, {
             id: 'Season 3',
+            name: 'episode deaths',
             data: [
               ['Episode 1', 10],
               ['Episode 2', 0],
@@ -126,6 +129,7 @@
             ]
           }, {
             id: 'Season 4',
+            name: 'episode deaths',
             data: [
               ['Episode 1', 1],
               ['Episode 2', 0],
@@ -143,6 +147,7 @@
             ]
           }, {
             id: 'Season 5',
+            name: 'episode deaths',
             data: [
               ['Episode 1', 0],
               ['Episode 2', 3],
