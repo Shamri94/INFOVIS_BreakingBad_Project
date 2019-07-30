@@ -1,6 +1,6 @@
 # INFOVIS_BreakingBad_Project
 
-This is the final project for the course of **Information Visualization** at *Università degli Studi Roma Tre*. In this project we show a visual representation of the deaths in the TV show **Breaking Bad**.
+This is the final project for the course of **Information Visualization** at *Università degli Studi Roma Tre*. In this project we show a visual representation of the deaths in the TV show ***Breaking Bad***.
 
 **BEWARE SPOILERS! THIS APPLICATION IS MEANT FOR PEOPLE WHO HAVE FULLY WATCHED *BREAKING BAD*.**
 
