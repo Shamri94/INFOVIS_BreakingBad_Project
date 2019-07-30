@@ -8,9 +8,9 @@ We have two data structures:
   - an interactive bar chart;
   - a filterable and sortable table.
   
-The bar chart shows the number of deaths in each season. By clicking on a chart, you can see the number of deaths in each episode. The purpose of this chart is giving a quantitative view on the deaths in Breaking Bad.
+The bar chart shows the number of deaths in each season. By clicking on a bar, you can see the number of deaths in each episode. The purpose of this chart is giving a quantitative view on the deaths in *Breaking Bad*.
 
-The table shows a more detailed view in the deaths. We have columns for various information like the victim, the murderer, the cause of death. You can sort each table by clicking on the column name. You can filter the table by typing on the search bars.
+The table shows a more detailed view of the deaths. We have columns for various information like the victim, the murderer, the cause of death. You can sort each table by clicking on the column name. You can filter the table by typing on the search bars.
 
 We used : *AngularJS*, *jQuery* and *Highcharts*
 
