@@ -18,17 +18,6 @@ app1.controller('validationCtrl', function($scope) {
 
     console.log('  document ready function, add search by column feature ');
 
-
-
-    /*
-													        earlier angularjs initialize datatable( must add "retrieve": true,) , but don't get a table handle, 
-													    	
-														  	later here, $('#id').DataTable(); will 1) if existing, will retrieve table handle.
-					                                                                               2) if not exsiting, will create a new table. 
-														
-														
-													 */
-
     var table = $('#example').DataTable();
 
 
@@ -567,19 +556,11 @@ app1.controller('validationCtrl', function($scope) {
 
 
   $scope.dataTableOpt = {
-    //custom datatable options 
-    // or load data through ajax call also
-    // "data": $scope.data00, // this is not real binding, the real binding is ui-jq="dataTable" ui-options="dataTableOpt", fill $scope.data
-    "retrieve": true, // angularjs at begining initialize datatable, but don't get a handle to the table, later you want to add search column, you need to get the table handle.
+    //custom datatable options
+    "retrieve": true,
     "aLengthMenu": [
       [10, 50, 100, -1],
       [10, 50, 100, 'All']
     ],
   };
-
-
-
-
-
-
 });
